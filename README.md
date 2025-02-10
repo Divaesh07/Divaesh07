@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divaesh Nandaa</h1>
-<h3 align="center">passionate tech enthusiast from India, constantly striving for growth and innovation.</h3>
+<h3 align="center">Passionate tech enthusiast from India, constantly striving for growth and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divaesh07&label=Profile%20views&color=0e75b6&style=flat" alt="divaesh07" /> </p>
 
